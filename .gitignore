@@ -1,6 +1,7 @@
 *.img
 *.o
-
+*.bin
+*.cfg
 lod
 readmcr
 diskmaker
