@@ -1,8 +1,10 @@
 *.img
 *.o
-usim
+
 lod
 readmcr
 diskmaker
 lmfs
 xx
+.xmake/
+build/

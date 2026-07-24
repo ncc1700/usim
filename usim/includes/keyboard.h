@@ -74,37 +74,37 @@ clear
 #define KB_SH_MODELOCK 03
 
 #define LM_K_ALTMODE 033
-#define LM_K_BREAK 0201 
+#define LM_K_BREAK 0201
 #define LM_K_CLEAR_INPUT 0202
-#define LM_K_CALL 0203 
-#define LM_K_TERMINAL 0204 
-#define LM_K_MACRO 0205 
-#define LM_K_HELP 0206 
-#define LM_K_RUBOUT 0207 
-#define LM_K_OVERSTRIKE 0210 
-#define LM_K_TAB 0211 
-#define LM_K_LINE 0212 
-#define LM_K_DELETE 0213 
-#define LM_K_PAGE 0214 
-#define LM_K_CLEAR_SCREEN 0214 
-#define LM_K_RETURN 0215 
-#define LM_K_QUOTE 0216 
-#define LM_K_HOLD_OUTPUT 0217 
+#define LM_K_CALL 0203
+#define LM_K_TERMINAL 0204
+#define LM_K_MACRO 0205
+#define LM_K_HELP 0206
+#define LM_K_RUBOUT 0207
+#define LM_K_OVERSTRIKE 0210
+#define LM_K_TAB 0211
+#define LM_K_LINE 0212
+#define LM_K_DELETE 0213
+#define LM_K_PAGE 0214
+#define LM_K_CLEAR_SCREEN 0214
+#define LM_K_RETURN 0215
+#define LM_K_QUOTE 0216
+#define LM_K_HOLD_OUTPUT 0217
 #define LM_K_STOP_OUTPUT 0220
-#define LM_K_ABORT 0221 
-#define LM_K_RESUME 0222 
-#define LM_K_STATUS 0223 
-#define LM_K_END 0224 
-#define LM_K_ROMAN_I 0225 
-#define LM_K_ROMAN_II 0226 
-#define LM_K_ROMAN_III 0227 
-#define LM_K_ROMAN_IV 0230 
-#define LM_K_HAND_UP 0231 
-#define LM_K_HAND_DOWN 0232 
-#define LM_K_HAND_LEFT 0233 
-#define LM_K_HAND_RIGHT 0234 
-#define LM_K_SYSTEM 0235 
-#define LM_K_NETWORK 0236 
+#define LM_K_ABORT 0221
+#define LM_K_RESUME 0222
+#define LM_K_STATUS 0223
+#define LM_K_END 0224
+#define LM_K_ROMAN_I 0225
+#define LM_K_ROMAN_II 0226
+#define LM_K_ROMAN_III 0227
+#define LM_K_ROMAN_IV 0230
+#define LM_K_HAND_UP 0231
+#define LM_K_HAND_DOWN 0232
+#define LM_K_HAND_LEFT 0233
+#define LM_K_HAND_RIGHT 0234
+#define LM_K_SYSTEM 0235
+#define LM_K_NETWORK 0236
 
 struct lmkey {
   char *lmkey_name;
@@ -163,7 +163,7 @@ struct lmkey {
   { "Network", 0236 },
 
   { NULL, -1 }
-};  
+};
 
 /* second index in kb_new_table gives which shift must be generated */
 #define KBNEW_IX_UNSHIFT 0

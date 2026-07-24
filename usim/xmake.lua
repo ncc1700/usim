@@ -1,0 +1,5 @@
+target("usim")
+    set_targetdir(".")
+    add_includedirs("includes")
+    add_files("src/*.c")
+    add_links("SDL")

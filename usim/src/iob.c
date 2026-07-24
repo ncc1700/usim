@@ -18,7 +18,7 @@
 #endif
 extern int sym_find(int mcr, char *name, int *pval);
 extern int read_a_mem(int fd);
-extern void iob_sdl_mouse_poll(int x, int y);
+
 
 #ifdef DISPLAY_SDL
 #ifdef _WIN32

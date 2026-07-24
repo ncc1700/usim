@@ -97,7 +97,7 @@ extern void assert_xbus_interrupt(void);
 	  21 ccw cyc
 	  22 read comp diff
 	  23 internal parity err
-	  
+
 	  24-31 block.ctr
 
 	Disk address (da reg)
@@ -108,8 +108,8 @@ extern void assert_xbus_interrupt(void);
 
 	  27 cyl11
 	  ...
-	  16 cyl0	  
-	  
+	  16 cyl0
+
 	  15 head7
 	  ...
 	  8  head0
@@ -224,7 +224,7 @@ _swaplongbytes(unsigned int *buf, int word_count)
  * Each disk block contains one Lisp machine page worth of data,
  * i.e. 256. words or 1024. bytes.
  */
-   
+
 int
 _disk_read(int block_no, unsigned int *buffer)
 {
@@ -544,7 +544,7 @@ disk_start_write(void)
 		disk_write_block(vma, cur_unit, cur_cyl, cur_head, cur_block);
 
 //		disk_incr_block();
-			
+
 		if ((ccw & 1) == 0) {
 			tracedio("disk: last ccw\n");
 			break;

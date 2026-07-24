@@ -197,7 +197,7 @@ deassert_xbus_interrupt(void)
 
 unsigned int last_virt = 0xffffff00, last_l1, last_l2;
 
-inline void
+void
 invalidate_vtop_cache(void)
 {
 	last_virt = 0xffffff00;
@@ -208,7 +208,7 @@ invalidate_vtop_cache(void)
  * possibly returning l1 mapping
  * possibly returning offset into page
  */
-inline unsigned int
+unsigned int
 map_vtop(unsigned int virt, int *pl1_map, int *poffset)
 {
 	int l1_index, l2_index, l1;
@@ -735,7 +735,7 @@ if ((vaddr & 077700000) == 077200000) {
 	return 0;
 }
 
-inline void
+ void
 write_ucode(int addr, ucw_t w)
 {
 	tracef("u-code write; %Lo @ %o\n", w, addr);
@@ -750,7 +750,7 @@ note_location(char *s, unsigned int v)
 	printf("\n");
 }
 
-inline void
+void
 write_a_mem(int loc, unsigned int v)
 {
 	//tracef("a_memory[%o] <- %o\n", loc, v);
@@ -763,7 +763,7 @@ read_a_mem(int loc)
 	return a_memory[loc];
 }
 
-inline unsigned int
+ unsigned int
 read_m_mem(int loc)
 {
 	if (loc > 32) {
@@ -773,7 +773,7 @@ read_m_mem(int loc)
 	return m_memory[loc];
 }
 
-inline void
+void
 write_m_mem(int loc, unsigned int v)
 {
 	m_memory[loc] = v;
@@ -821,7 +821,7 @@ rotate_left(unsigned int v, int rot)
 	return v;
 }
 #else
-inline unsigned int
+unsigned int
 rotate_left(unsigned int value, int bitstorotate)
 {
 	unsigned int tmp;
@@ -842,7 +842,7 @@ rotate_left(unsigned int value, int bitstorotate)
 }
 #endif
 
-inline void
+void
 push_spc(int pc)
 {
 	spc_stack_ptr = (spc_stack_ptr + 1) & 037;
@@ -851,7 +851,7 @@ push_spc(int pc)
 	spc_stack[spc_stack_ptr] = pc;
 }
 
-inline int
+int
 pop_spc(void)
 {
 	unsigned int v;
@@ -869,7 +869,7 @@ pop_spc(void)
  * advance the LC register,
  * following the rules; will read next vma if needed
  */
-inline void
+void
 advance_lc(int *ppc)
 {
 	/* lc is 26 bits */

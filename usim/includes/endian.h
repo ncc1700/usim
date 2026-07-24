@@ -1,4 +1,4 @@
-/* 
+/*
  * endian.h
  * Some macros to handle endian-ness issues in usim CADR emulation
  *
