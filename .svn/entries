@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2006-08-07T16:21:32.058624Z"
+   url="https://svn/repos/cadr/usim"
+   last-author="brad"
+   kind="dir"
+   uuid="eb18aca7-7e07-0410-a4fd-8d953e1fdd25"
+   revision="84"/>
+<entry
+   committed-rev="54"
+   name="kbd_old.c"
+   text-time="2005-12-11T13:51:31.000000Z"
+   committed-date="2005-12-12T21:11:26.512612Z"
+   checksum="0cb6fb84261a55b1d2ff1f916334ceda"
+   last-author="brad"
+   kind="file"/>
+<entry
+   committed-rev="82"
+   name="ucode.c"
+   text-time="2006-08-07T16:08:31.000000Z"
+   committed-date="2006-08-07T15:40:28.883015Z"
+   checksum="b033a06c679501f92a1ffb1468f5c318"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T16:08:31.000000Z"/>
+<entry
+   committed-rev="21"
+   name="macro.c"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-10-18T23:15:49.000000Z"
+   checksum="6e5331a61ac523c7c076234648d857b1"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="64"
+   name="lmfs.c"
+   text-time="2006-07-10T22:01:32.000000Z"
+   committed-date="2006-07-10T22:24:11.742078Z"
+   checksum="a18c3c4b7280201d25818b89c64ffe9f"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-07-10T22:23:27.000000Z"/>
+<entry
+   committed-rev="67"
+   name="chaos.h"
+   text-time="2006-07-11T17:15:52.000000Z"
+   committed-date="2006-07-11T15:49:41.613799Z"
+   checksum="ed5cc7185ca86954ecb00c6a09ff967c"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-07-11T17:15:52.000000Z"/>
+<entry
+   committed-rev="77"
+   name="endian.h"
+   text-time="2006-07-18T18:13:46.000000Z"
+   committed-date="2006-07-18T18:13:25.798964Z"
+   checksum="6520c84aa08a7a3bd00f21b54463c578"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-07-18T18:13:46.000000Z"/>
+<entry
+   committed-rev="66"
+   name="ucode.h"
+   text-time="2006-07-11T17:15:52.000000Z"
+   committed-date="2006-07-11T15:48:06.332307Z"
+   checksum="aab2b2be00a970ae1ba0d31b9d0a31ba"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-07-11T17:15:52.000000Z"/>
+<entry
+   committed-rev="83"
+   name="template.disk1"
+   text-time="2006-08-07T16:08:31.000000Z"
+   committed-date="2006-08-07T16:08:20.694139Z"
+   checksum="b9879e5dbfb2fd6223b0e49f6d4dd2e6"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T16:08:31.000000Z"/>
+<entry
+   committed-rev="61"
+   name="config.c"
+   text-time="2006-04-01T01:25:14.000000Z"
+   committed-date="2006-04-01T01:25:14.348811Z"
+   checksum="0004147c63ee3870576c5c8a9171ff7b"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="61"
+   name="keyboard.h"
+   text-time="2005-12-17T12:36:24.000000Z"
+   committed-date="2006-04-01T01:25:14.348811Z"
+   checksum="d9f6041379d204c772c0eb46392dd30b"
+   last-author="brad"
+   kind="file"/>
+<entry
+   committed-rev="61"
+   name="template.disk2"
+   text-time="2005-12-17T13:46:33.000000Z"
+   committed-date="2006-04-01T01:25:14.348811Z"
+   checksum="b56a16f94053e59e11d02a9b5cc74ef1"
+   last-author="brad"
+   kind="file"/>
+<entry
+   committed-rev="61"
+   name="template.disk3"
+   text-time="2005-12-11T18:07:49.000000Z"
+   committed-date="2006-04-01T01:25:14.348811Z"
+   checksum="a6a11c89121a69803be6aef4ad9a049b"
+   last-author="brad"
+   kind="file"/>
+<entry
+   committed-rev="80"
+   name="template.disk4"
+   text-time="2006-08-07T15:09:26.000000Z"
+   committed-date="2006-08-07T14:43:08.251564Z"
+   checksum="a7ae71f85d90ae46591fb9c6ced44a2c"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T15:09:25.000000Z"/>
+<entry
+   committed-rev="67"
+   name="template.disk5"
+   text-time="2006-07-11T17:15:52.000000Z"
+   committed-date="2006-07-11T15:49:41.613799Z"
+   checksum="968d97b510590e5c1a2bbf00cce665da"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-07-11T17:15:52.000000Z"/>
+<entry
+   committed-rev="54"
+   name="ucadr.mcr.841"
+   text-time="2005-12-09T18:23:49.000000Z"
+   committed-date="2005-12-12T21:11:26.512612Z"
+   checksum="54cd0547e9ab7730ca6962eb6b18edc1"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:26:17.000000Z"/>
+<entry
+   committed-rev="54"
+   name="diskmaker_old.c"
+   text-time="2005-12-12T00:19:27.000000Z"
+   committed-date="2005-12-12T21:11:26.512612Z"
+   checksum="260c7b6bc5ca22804592dda4c479c655"
+   last-author="brad"
+   kind="file"/>
+<entry
+   committed-rev="52"
+   name="x11.c"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2005-12-06T20:31:34.000000Z"
+   checksum="e6d795892ee424210418dfa287a3938c"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="64"
+   name="diskmaker.c"
+   text-time="2006-07-10T22:24:12.000000Z"
+   committed-date="2006-07-10T22:24:11.742078Z"
+   checksum="16c4fd5aa75048650b6d80b562e4666c"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-13T23:53:05.000000Z"/>
+<entry
+   committed-rev="61"
+   name="config.h"
+   text-time="2006-04-01T01:25:14.000000Z"
+   committed-date="2006-04-01T01:25:14.348811Z"
+   checksum="6e4994df40274b52bdb369548d8edbb1"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="7"
+   name="ucadr.sym.979"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-09-04T15:49:59.000000Z"
+   checksum="7668ce968c46c1463e6ea0db75312c86"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="54"
+   name="keyboard.cfg"
+   text-time="2005-12-09T18:27:04.000000Z"
+   committed-date="2005-12-12T21:11:26.512612Z"
+   checksum="cfed39b98f5a2fa80985be5521cba5e1"
+   last-author="brad"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="promh.sym.9"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-09-04T15:49:59.000000Z"
+   checksum="ad0ef3c3ab68b96174ad1cfaecc30128"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="66"
+   name="usim.h"
+   text-time="2006-07-11T17:15:52.000000Z"
+   committed-date="2006-07-11T15:48:06.332307Z"
+   checksum="b234988dd054550f23979e496c2c79d8"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-07-11T17:15:52.000000Z"/>
+<entry
+   committed-rev="83"
+   name="sdl.c"
+   text-time="2006-08-07T16:08:31.000000Z"
+   committed-date="2006-08-07T16:08:20.694139Z"
+   checksum="9ef141cf5419d4f46d54613365530a30"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T16:08:31.000000Z"/>
+<entry
+   committed-rev="61"
+   name="decode.c"
+   text-time="2006-04-01T01:25:14.000000Z"
+   committed-date="2006-04-01T01:25:14.348811Z"
+   checksum="e906240d28a98a389d49ecdd157db535"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="84"
+   name="disk.c"
+   text-time="2006-08-07T16:21:51.000000Z"
+   committed-date="2006-08-07T16:21:32.058624Z"
+   checksum="6952b8a991757a75965762c5d6cec39b"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T16:21:51.000000Z"/>
+<entry
+   committed-rev="66"
+   name="syms.c"
+   text-time="2006-07-11T17:15:52.000000Z"
+   committed-date="2006-07-11T15:48:06.332307Z"
+   checksum="a4d142475091e3769793bac465c083a1"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-07-11T17:15:52.000000Z"/>
+<entry
+   committed-rev="77"
+   name="Makefile"
+   text-time="2006-07-18T18:13:46.000000Z"
+   committed-date="2006-07-18T18:13:25.798964Z"
+   checksum="29713ff8825bd74a187a34b456129545"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-07-18T18:13:46.000000Z"/>
+<entry
+   committed-rev="54"
+   name="ucadr.lisp.841"
+   text-time="2005-12-09T18:23:40.000000Z"
+   committed-date="2005-12-12T21:11:26.512612Z"
+   checksum="3ade83c3d10bdc20d9708736a2587c5d"
+   last-author="brad"
+   kind="file"/>
+<entry
+   committed-rev="54"
+   name="ucadr.sym.841"
+   text-time="2005-12-09T18:23:35.000000Z"
+   committed-date="2005-12-12T21:11:26.512612Z"
+   checksum="538781f9bd0cfeac903c961aa2531785"
+   last-author="brad"
+   kind="file"/>
+<entry
+   committed-rev="10"
+   name="logo.h"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-09-06T23:11:52.000000Z"
+   checksum="fad1d2c7df1e40e855ea147d0c9282cd"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="13"
+   name="cadrmem.c"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-09-29T23:05:14.000000Z"
+   checksum="0403466f32cbd27e219371595b45dbfd"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="83"
+   name="iob.c"
+   text-time="2006-08-07T16:08:31.000000Z"
+   committed-date="2006-08-07T16:08:20.694139Z"
+   checksum="12b1421f099545c24b13f3aec0e37ece"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T16:08:31.000000Z"/>
+<entry
+   committed-rev="80"
+   name="kbd_new.c"
+   text-time="2006-08-07T15:09:26.000000Z"
+   committed-date="2006-08-07T14:43:08.251564Z"
+   checksum="836a40d762883341a43d09327a6074d7"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T15:09:25.000000Z"/>
+<entry
+   committed-rev="80"
+   name="promh.9"
+   text-time="2006-08-07T15:09:26.000000Z"
+   committed-date="2006-08-07T14:43:08.251564Z"
+   checksum="4ef911a72b073af87026dee843aefefc"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T15:09:26.000000Z"/>
+<entry
+   committed-rev="83"
+   name="README"
+   text-time="2006-08-07T16:08:31.000000Z"
+   committed-date="2006-08-07T16:08:20.694139Z"
+   checksum="32cbfe2128108b8b318dd2ed684bd2ca"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T16:08:31.000000Z"/>
+<entry
+   committed-rev="61"
+   name="readmcr.c"
+   text-time="2006-04-01T01:25:14.000000Z"
+   committed-date="2006-04-01T01:25:14.348811Z"
+   checksum="29dd939130a9a914b02184a2c4218f9e"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="80"
+   name="lod.c"
+   text-time="2006-08-07T15:09:26.000000Z"
+   committed-date="2006-08-07T14:43:08.251564Z"
+   checksum="80155c4bcfd68c6cf74f259fbb6c5968"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T15:09:26.000000Z"/>
+<entry
+   committed-rev="21"
+   name="poo.html"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-10-18T23:15:49.000000Z"
+   checksum="5ec59b68c5d35a4fabdbf8b6a7705c8e"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cadr_1.bin"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-08-31T17:15:37.000000Z"
+   checksum="bd07ab313c1863cebcf45eb34e3b35d5"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cadr_2.bin"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-08-31T17:15:37.000000Z"
+   checksum="c77de4bba393d5a70dd8d7c316453795"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   name="win32"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="cadr_3.bin"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-08-31T17:15:37.000000Z"
+   checksum="4440d0430bc63ae2ead646745ca11984"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cadr_4.bin"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-08-31T17:15:37.000000Z"
+   checksum="1ba22ff44d10d30be0c9be301dc41714"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="25"
+   name="div.c"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-10-21T15:21:28.000000Z"
+   checksum="0f8cda8182eb41fd5eadd8d1ca832a0b"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cadr_5.bin"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-08-31T17:15:37.000000Z"
+   checksum="cb9c6c857ea4d917079b6a5a30c8f77f"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="83"
+   name="main.c"
+   text-time="2006-08-07T16:08:31.000000Z"
+   committed-date="2006-08-07T16:08:20.694139Z"
+   checksum="99c2f4c0a6a843e7fefaadc170e1c99c"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T16:08:31.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ucadr.mcr.979"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-08-31T17:15:37.000000Z"
+   checksum="0d0e42e38dbf9eab5668dd2dd6b5b8d5"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cadr_6.bin"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2004-08-31T17:15:37.000000Z"
+   checksum="b219887206dc4457350ffbd49edc8510"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="51"
+   name="prom.dis.txt"
+   text-time="2005-12-09T18:00:45.000000Z"
+   committed-date="2005-12-06T19:53:32.000000Z"
+   checksum="85e039c7e7203fa050e6f04a3b0d01b3"
+   last-author="brad"
+   kind="file"
+   prop-time="2005-12-09T18:00:45.000000Z"/>
+<entry
+   committed-rev="83"
+   name="chaos.c"
+   text-time="2006-08-07T16:08:31.000000Z"
+   committed-date="2006-08-07T16:08:20.694139Z"
+   checksum="5c2a34ec2555775c7a3862d182a0b281"
+   last-author="brad"
+   kind="file"
+   prop-time="2006-08-07T16:08:31.000000Z"/>
+</wc-entries>
